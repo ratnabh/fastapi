@@ -1,0 +1,46 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Poetry
+.poetry/
+poetry.lock
+
+# VS Code settings
+.vscode/
+
+# IDE settings (IntelliJ, PyCharm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Mypy
+.mypy_cache/
+
+# pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
